@@ -1,6 +1,9 @@
-### Hi there 👋
+### :blue_heart: hello galera, sou a milene, estudo programação front end, sou iniciante.
+##### uma curiosidade sobre mim, conheci a programação no final de 2022, antes disso eu era da area da beleza e altos cuidados.
+##### :kiss: ainda sou da area da beleza, mas sempre quis algo mais serio para levar a frente.
+##### A Ford abriu essa oportunidade, e é um privilégio estar aqui.
 
-<!--
+
 **milene7/milene7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
