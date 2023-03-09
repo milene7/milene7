@@ -1,18 +1,12 @@
+:two_hearts:<img src= https://i0.wp.com/i.pinimg.com/474x/c8/ba/5f/c8ba5f937b187c5c45a0b032d4658f64.jpg>
 ### Hello!:kiss:
+#### Sou a milene, tenho 18 anos! 
+#### Estudo programação Front End:woman_technologist:
+#### Mas também sou da area da beleza, tenho cursos de:
+<li> Desing de sobrancelhas 
+  <li>Maquiadora profissional 
+    <li> Extencionista 
+  
 
 
 
-
-**milene7/milene7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
