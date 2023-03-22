@@ -1,4 +1,6 @@
 ## oi, seja bem vindo, sou a Milene
+##
+<img src="https://i.pinimg.com/originals/33/92/9f/33929fe093e490d9dda5498b24b884ca.jpg"
 <div style="display: inline_block"><br>
  
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -15,9 +17,7 @@
 <br>
 
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)
- 
- ##
- <img src="https://i.pinimg.com/originals/33/92/9f/33929fe093e490d9dda5498b24b884ca.jpg>
+
 
     
 
