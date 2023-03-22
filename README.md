@@ -1,4 +1,5 @@
-## oi, seja bem vindo, sou a Milene
+## oii, seja bem vindo, sou a Milene
+estudo programação Front End, atualmente na Ford Academy
      
 <div style="display: inline_block"><br>
  
