@@ -13,8 +13,7 @@
   <a href=https://www.instagram.com/mi.sttos/ target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://mail.google.com/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/milene-oliveira-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
 <div class"container">
-<img src="https://i.pinimg.com/originals/f3/71/df/f371dfad68ee10fbd064a1488c564700.jpg">
+<img scr="https://i.pinimg.com/originals/f3/71/df/f371dfad68ee10fbd064a1488c564700.jpg" width="320" height="205"/>
 </div>
