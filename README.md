@@ -1,7 +1,4 @@
 ## oi, seja bem vindo, sou a Milene
-##
-
-<img src="https://i.pinimg.com/originals/33/92/9f/33929fe093e490d9dda5498b24b884ca.jpg"
      
 <div style="display: inline_block"><br>
  
