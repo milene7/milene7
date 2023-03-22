@@ -15,5 +15,5 @@
   <a href="https://www.linkedin.com/in/milene-oliveira-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <div class"container">
-<img scr="https://i.pinimg.com/originals/f3/71/df/f371dfad68ee10fbd064a1488c564700.jpg">
+<img scr="https://i.pinimg.com/originals/f3/71/df/f371dfad68ee10fbd064a1488c564700.jpg"
 </div>
