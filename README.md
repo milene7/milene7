@@ -17,7 +17,7 @@
 
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)
  
- <img src="https://i.pinimg.com/originals/f3/71/df/f371dfad68ee10fbd064a1488c564700.jpg>
+ 
 
 
     
